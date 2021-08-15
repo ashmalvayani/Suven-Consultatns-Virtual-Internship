@@ -1,0 +1,2 @@
+Here's my link to the article about this project:
+https://medium.com/@ashmalanis08/recognizing-handwritten-digits-with-scikit-learn-1391173c63d
